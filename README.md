@@ -44,7 +44,7 @@ Pessoa's vast heteronymous corpus has, as of early 2025, been mostly unexplored 
 Pessoa's poetry falls under the public domain, and is thus free to be used for our research.
 
 ## Collaborators
-This repository was created by Gheorghe Septelici, Henry Hornung and Aidan Grefte.
-https://github.com/gheorgheseptelici
-https://github.com/HenryAHornung
-https://github.com/Aiclan
+  This repository was created by Gheorghe Septelici, Henry Hornung and Aidan Grefte.  
+  https://github.com/gheorgheseptelici  
+  https://github.com/HenryAHornung  
+  https://github.com/Aiclan  
