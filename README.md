@@ -1,4 +1,4 @@
-# Analysing Fernando Pessoa’s Work Through Computational Methods
+# Exploring Pessoa’s Heteronymous Biographies Through a Computational Approach
 
 <a title="Template:Cavalão, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Pessoa_chapeu.jpg"><img width="256" alt="Fernando Pessoa, 1914" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pessoa_chapeu.jpg/256px-Pessoa_chapeu.jpg?20170303141045"></a>
 
