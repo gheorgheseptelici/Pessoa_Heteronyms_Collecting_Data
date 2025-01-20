@@ -32,12 +32,10 @@ In order to access this repository, you will need software that is able to run J
 - nltk
 - collections
 - matplotlib.pyplot
-- textblob
+- seaborn
 
 While the entire corpus will be accessible through the jupyter notebook, it is also provided in the repository as a csv file, and multiple txt files, so being able to open these file types may be helpful when accessing the data.
 
-## Technologies
-The technologies we used in the repository were….
 
 ## Intended use of this repository
 Pessoa's vast heteronymous corpus has, as of early 2025, been mostly unexplored through digital humanities methods. In this project, we assembled a corpus and subjected it to three initial computational analyses. However, this only entails a preliminary investigation, and we invite researchers to use our corpus to further study Pessoa's works. Moreover, our research contains an evaluation of sentiment analysis, type-token ratio and word frequency for thematic analyses, specifically pertaining to poetry.
